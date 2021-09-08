@@ -1,1 +1,1 @@
-worker: python3 -m megadl
+web: python3 -m megadl
